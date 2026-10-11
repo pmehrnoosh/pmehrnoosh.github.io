@@ -100,7 +100,3 @@ _Tehran, Iran · 2016–2023_
 ## Bachelor's Degree in Computer Software Engineering
 
 _Azad University · Tehran, Iran · 2011 - 2016_
-
-## Bachelor of Commerce
-
-_Sample University · Toronto, ON · 2011_
